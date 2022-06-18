@@ -11,8 +11,8 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ## Links
 
-- Solution URL: https://status-preview-component-senuka-thisath.netlify.app/
-- Live Site URL: https://github.com/Senuka072/Stats-preview-card-component
+- Solution URL: https://github.com/Senuka072/Stats-preview-card-component
+- Live Site URL: https://status-preview-component-senuka-thisath.netlify.app/
 
 ## Author
 
